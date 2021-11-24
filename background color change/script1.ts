@@ -1,3 +1,4 @@
+var myVar= setInterval(rbc,3000)
 function rbc() {
   const x:number = Math.floor(Math.random() * 560);
   const y:number = Math.floor(Math.random() * 560);
